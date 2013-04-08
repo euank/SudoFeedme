@@ -1,0 +1,5 @@
+## YAML Template.
+---
+name: SudoFeedme
+main: in.sudokraft.sudofeedme.SudoFeedme
+version: 0.1.2
